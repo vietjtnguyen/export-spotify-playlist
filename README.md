@@ -29,7 +29,7 @@ The script was developed using Python 2.7.3.
 
 ### Mechanize
 
-[[http://wwwsearch.sourceforge.net/mechanize/]]
+http://wwwsearch.sourceforge.net/mechanize/
 
 Easily installed with `easy_install mechanize` (`sudo easy_install mechanize` if necessary). Looks like you can also use `pip`: `pip install mechanize`.
 
